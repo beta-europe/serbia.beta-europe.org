@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+  
+  
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "March for Europe",
+        "url": "http://localhost:4000/partner/march-for-europe/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 12.5451,41.8988 ]
+      }
+    }
+  
+  ]
+}
