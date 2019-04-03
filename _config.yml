@@ -10,13 +10,13 @@ minimal_mistakes_skin : "beta" # "default", "air", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en"
-title                    : "BETA Netherlands"
+title                    : "BETA Serbia"
 title_separator          : "-"
-name                     : "Bringing Europeans Together Association Netherlands"
+name                     : "Bringing Europeans Together Association Serbia"
 description              : "EU Politics Simulations"
-url                      : "https://netherlands.beta-europe.org"
+url                      : "https://Serbia.beta-europe.org"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "beta-europe/netherlands.beta-europe.org"
+repository               : "beta-europe/Serbia.beta-europe.org"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -86,11 +86,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "BETA Netherlands"
+  name             : "BETA Serbia"
   avatar           :  # path of avatar image, e.g. "/assets/images/beta-logo-180-transparent.png"
-  bio              : "Bringing Europeans Together Association Netherlands"
-  location         : "The Hague, Netherlands"
-  email            : contact@netherlands.beta-europe.org
+  bio              : "Bringing Europeans Together Association Serbia"
+  location         : "The Hague, Serbia"
+  email            : contact@Serbia.beta-europe.org
   uri              :
   bitbucket        :
   codepen          :
@@ -98,7 +98,7 @@ author:
   flickr           :
   facebook         : "nlbeta"
   foursquare       :
-  github           : "orgs/beta-europe/teams/beta-netherlands"
+  github           : "orgs/beta-europe/teams/beta-Serbia"
   gitlab           :
   google_plus      :
   keybase          :
