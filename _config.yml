@@ -10,13 +10,13 @@ minimal_mistakes_skin : "beta"
 
 # Site Settings
 locale                   : "en"
-title                    : "BETA Czech Republic"
+title                    : "BETA Serbia"
 title_separator          : "-"
-name                     : "BETA Czech Republic"
+name                     : "BETA Serbia"
 description              : "Slovak chapter of Bringing Europeans Together Association"
-url                      : "https://czechia.beta-europe.org" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://Serbia.beta-europe.org" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "beta-europe/czechia.beta-europe.org" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "beta-europe/Serbia.beta-europe.org" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "BETA Czech Republic"
+  name             : "BETA Serbia"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Slovak chapter of Bringing Europeans Together Association e.V."
-  location         : "Prague"
-  email            : "czechia@beta-europe.org"
+  location         : "Belgrade"
+  email            : "Serbia@beta-europe.org"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "orgs/beta-europe/teams/beta-czechia/members"
+  github           : "orgs/beta-europe/teams/beta-Serbia/members"
   gitlab           :
   google_plus      :
   keybase          :
